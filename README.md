@@ -18,7 +18,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src="NLW\github\preview.png)
+  <img alt="calendario da copa" src=".github\preview.png)
 " width="100%">
 </p>
 
@@ -27,10 +27,8 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript e JSON
-- [Node e NPM](https://nodejs.org/)
-- [Vite](https://vitejs.dev/)
-- [iMask](https://imask.js.org)
+- JavaScript 
+- Git e Github
 
 ## 💻 Projeto
 
